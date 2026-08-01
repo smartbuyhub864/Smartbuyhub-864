@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Smartbuyhub864</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <h1>Smartbuyhub864</h1>
+  <nav>
+    <a href="#">Home</a>
+    <a href="#">Electronics</a>
+    <a href="#">Home & Kitchen</a>
+    <a href="#">Fashion</a>
+    <a href="#">Books</a>
+    <a href="#">Contact</a>
+  </nav>
+</header>
+
+<main>
+  <h2>Welcome to Smartbuyhub864</h2>
+  <p>Your trusted source for the best Amazon deals and product recommendations.</p>
+
+  <section class="card">
+    <h3>Featured Product</h3>
+    <p>Replace this text with your product review and Amazon affiliate link.</p>
+    <a href="#">View on Amazon</a>
+  </section>
+</main>
+
+<footer>
+  <p>&copy; 2026 Smartbuyhub864. All rights reserved.</p>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
